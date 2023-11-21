@@ -18,7 +18,7 @@ function getArrayParams(...arr) {
 		min: min,
 		max: max,
 		avg: +avg.toFixed(2)
-	};
+	}
 }
 
 
